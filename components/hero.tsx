@@ -21,7 +21,7 @@ const codeLines = [
     color: "text-muted-foreground",
   },
   { prefix: " ", text: "  -v /data:/data \\", color: "text-muted-foreground" },
-  { prefix: " ", text: "  ghcr.io/deadmau5v/YuqueSync:v1.0.0", color: "text-muted-foreground" },
+  { prefix: " ", text: "  ghcr.io/deadmau5v/yuquesync:latest", color: "text-muted-foreground" },
   {
     prefix: "#",
     text: " Initializing sync process...",

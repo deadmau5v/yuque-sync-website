@@ -14,7 +14,7 @@ $ docker run -d \\
     -e YUQUE_TOKEN="你的token" \\
     -e YUQUE_SESSION="你的session" \\
     -v /path/to/save:/data \\
-    ghcr.io/deadmau5v/YuqueSync:v1.0.0`,
+    ghcr.io/deadmau5v/yuquesync:latest`,
   },
   {
     id: "compose",
